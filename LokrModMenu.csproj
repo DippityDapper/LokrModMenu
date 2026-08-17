@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>LokrModMenu</AssemblyName>
+    <RootNamespace>LokrModMenu</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LokrModAPI\LokrModAPI.csproj" Private="false" />
+  </ItemGroup>
+
+</Project>
